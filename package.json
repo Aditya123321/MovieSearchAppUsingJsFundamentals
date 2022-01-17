@@ -1,0 +1,17 @@
+{
+  "name": "moviesearchapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Aditya Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "git": "^0.1.5",
+    "lite-server": "^2.6.1"
+  }
+}
